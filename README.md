@@ -1,4 +1,3 @@
-[![CircleCI](https://circleci.com/gh/alexander-manley/go-chart/tree/master.svg?style=svg)](https://circleci.com/gh/alexander-manley/go-chart/tree/master)
 
 go-chart
 ========
